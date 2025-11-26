@@ -105,12 +105,9 @@ fuga_espacial/
 | ✅      | Meteoros caindo e se movendo pela tela                             |
 | ✅      | Sistema de tiro da nave                                            |
 | ✅      | Sistema de níveis baseado na pontuação                             |
-| ✅      | Velocidade dos meteoros aumenta a cada nível                       |
-| ✅      | Meteoros surgem de diferentes posições conforme o nível            |
 | ✅      | Pontuação aumenta ao desviar ou destruir meteoros                  |
 | ✅      | Sistema de vidas da nave                                           |
 | ✅      | Colisão entre nave e meteoro encerra o jogo quando as vidas acabam |
-| ✅      | Animação de “LEVEL UP” com som                                     |
 
 ---
 
