@@ -121,6 +121,9 @@ O Makefile compila todos os arquivos do projeto e executa o jogo.
 
 ## 🎬 Demonstração do Jogo
 - No VsCode
+  
 ![Fuga Espacial em ação](assets/jogo.gif)
+
 - No terminal
+  
 ![Fuga Espacial em ação](assets/Jogo_2.gif)
