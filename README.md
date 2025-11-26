@@ -23,31 +23,48 @@ Este projeto foi desenvolvido com o intuito de praticar:
 
 ✅ Uso da biblioteca CLI-LIB para:
 
-controle de teclado
+  - controle de teclado
 
-renderização no terminal
+  - renderização no terminal
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 fuga_espacial/
+
 ├── build/                  # pasta de saída do executável
+
 ├── src/                    # código-fonte principal
+
 │   ├── main.c              # loop principal do jogo
+
 │   ├── jogo.c              # lógica, desenho e mecânicas do jogo
+
 │   ├── jogo.h              # protótipos das funções e includes
+
 │   ├── estruturas.h        # definição das structs
+
 │   ├── nave.c / nave.h     # controle da nave
+
 │   ├── meteoro.c / meteoro.h # meteoros e colisões
+
 │   ├── tiro.c / tiro.h     # tiros da nave
+
 │   ├── vidas.c / vidas.h   # gerenciamento de vidas
+
 │   ├── placar.c / placar.h # pontuação
+
 │   ├── nivel.c / nivel.h   # sistema de níveis
+
 │   └── borda.c / borda.h   # desenho da borda da tela
+
 ├── cli-lib/                # biblioteca auxiliar para CLI
+
 │   ├── include/            # screen.h, keyboard.h, timer.h
+
 │   └── src/                # implementações da biblioteca
+
 └── Makefile                # script de compilação
 
 ---
