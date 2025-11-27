@@ -113,9 +113,21 @@ fuga_espacial/
 
 ## 🧪 Como Compilar e Executar
 
-Se você estiver usando o VSCode ou outro IDE no Linux, basta abrir a pasta fuga_espacial e rodar:
+Se você estiver usando o VSCode, basta abrir a pasta do projeto e rodar:
 
 make run
+
+Se você estiver usando o Terminal do computador:
+
+1- Colaca cd "caminho onde está o projeto"
+
+2- make run
+
+Ex: 
+  
+  myllena@myllena-dcm4a-4:~$ cd "/home/myllena/Downloads/Fuga_Espacial-main"
+  
+  myllena@myllena-dcm4a-4:~/Downloads/Fuga_Espacial-main$ **make run**
 
 O Makefile compila todos os arquivos do projeto e executa o jogo.
 
